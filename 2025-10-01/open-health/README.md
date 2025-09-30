@@ -5,13 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 2                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2                |
+| **Lines Removed** (➖) | 4                                        |
+| **Net Change** (↕)    | -2                |
 | **Active Time** (⌚)   | 0 minute |
 
 
 ## Modified Files
 - **docling.ts** (+2, -0)
+- **docker-compose.yaml** (+0, -4)
 
 ## Visualizations
 
@@ -21,6 +22,7 @@
 pie showData
 title Lines changed by file type
 ".ts" : 2
+".yaml" : 4
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"01h" : 1
+"01h" : 2
 ```
 
 
-> **Last Updated:** 10/1/2025, 1:35:17 AM
+> **Last Updated:** 10/1/2025, 1:44:17 AM

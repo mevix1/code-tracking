@@ -3,7 +3,7 @@
   "projects": {
     "open-health": {
       "totalLinesAdded": 2,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 4,
       "totalActiveTime": 0,
       "files": {
         "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts": [
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\docker-compose.yaml": [
+          {
+            "timestamp": "2025-09-30T22:43:56.404Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\docker-compose.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ]
       },
