@@ -1,0 +1,89 @@
+{
+  "date": "2025-09-30",
+  "projects": {
+    "CopilotKit": {
+      "totalLinesAdded": 147,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-09-30T13:20:09.462Z",
+            "fileName": "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 143,
+            "linesRemoved": 0,
+            "projectName": "CopilotKit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-30T13:20:39.206Z",
+            "fileName": "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "CopilotKit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-30T13:20:41.053Z",
+            "fileName": "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "CopilotKit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-09-30T13:20:51.824Z",
+            "fileName": "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "CopilotKit",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 3
+      },
+      "changeFrequency": {
+        "16": 3
+      },
+      "topFiles": [
+        "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json"
+      ],
+      "averageChangeSize": 37
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
