@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 704                                          |
-| **Lines Removed** (➖) | 207                                        |
-| **Net Change** (↕)    | 497                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 705                                          |
+| **Lines Removed** (➖) | 209                                        |
+| **Net Change** (↕)    | 496                |
+| **Active Time** (⌚)   | 13 minutes |
 
 
 ## Modified Files
@@ -16,7 +16,7 @@
 - **.env** (+49, -0)
 - **.env.example** (+46, -0)
 - **Containerfile** (+44, -23)
-- **middleware.ts** (+22, -0)
+- **middleware.ts** (+23, -2)
 - **pdf.ts** (+438, -57)
 - **route.ts** (+28, -3)
 - **upstage.ts** (+75, -0)
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 656
+".ts" : 659
 ".yaml" : 43
 "unknown" : 116
 ".example" : 46
@@ -42,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "01h" : 2
-"02h" : 14
+"02h" : 16
 ```
 
 
-> **Last Updated:** 10/1/2025, 2:09:17 AM
+> **Last Updated:** 10/1/2025, 2:29:17 AM
