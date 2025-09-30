@@ -4,23 +4,23 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 705                                          |
+| **Lines Added** (➕)   | 933                                          |
 | **Lines Removed** (➖) | 209                                        |
-| **Net Change** (↕)    | 496                |
-| **Active Time** (⌚)   | 13 minutes |
+| **Net Change** (↕)    | 724                |
+| **Active Time** (⌚)   | 27 minutes |
 
 
 ## Modified Files
-- **docling.ts** (+2, -31)
-- **docker-compose.yaml** (+0, -43)
+- **docling.ts** (+33, -31)
+- **docker-compose.yaml** (+39, -43)
 - **.env** (+49, -0)
 - **.env.example** (+46, -0)
-- **Containerfile** (+44, -23)
+- **Containerfile** (+67, -23)
 - **middleware.ts** (+23, -2)
-- **pdf.ts** (+438, -57)
-- **route.ts** (+28, -3)
-- **upstage.ts** (+75, -0)
-- **source-add-screen.tsx** (+0, -50)
+- **pdf.ts** (+495, -57)
+- **route.ts** (+31, -3)
+- **upstage.ts** (+100, -0)
+- **source-add-screen.tsx** (+50, -50)
 
 ## Visualizations
 
@@ -29,11 +29,11 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 659
-".yaml" : 43
-"unknown" : 116
+".ts" : 775
+".yaml" : 82
+"unknown" : 139
 ".example" : 46
-".tsx" : 50
+".tsx" : 100
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -42,8 +42,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "01h" : 2
-"02h" : 16
+"02h" : 23
 ```
 
 
-> **Last Updated:** 10/1/2025, 2:29:17 AM
+> **Last Updated:** 10/1/2025, 2:30:17 AM
