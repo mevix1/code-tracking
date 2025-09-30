@@ -2,9 +2,9 @@
   "date": "2025-10-01",
   "projects": {
     "open-health": {
-      "totalLinesAdded": 2,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 704,
+      "totalLinesRemoved": 207,
+      "totalActiveTime": 12,
       "files": {
         "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts": [
           {
@@ -19,6 +19,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-30T23:08:52.205Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
@@ -36,6 +50,204 @@
             },
             "duration": 0,
             "language": "yaml"
+          },
+          {
+            "timestamp": "2025-09-30T23:08:52.162Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\docker-compose.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 0,
+            "linesRemoved": 39,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\.env": [
+          {
+            "timestamp": "2025-09-30T23:08:33.144Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\.env",
+            "fileType": "unknown",
+            "linesAdded": 49,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\.env.example": [
+          {
+            "timestamp": "2025-09-30T23:08:33.138Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\.env.example",
+            "fileType": ".example",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "example"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\Containerfile": [
+          {
+            "timestamp": "2025-09-30T23:08:36.842Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\Containerfile",
+            "fileType": "unknown",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-09-30T23:08:52.137Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\Containerfile",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 23,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\src\\middleware.ts": [
+          {
+            "timestamp": "2025-09-30T23:08:40.855Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-30T23:08:52.180Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\middleware.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\pdf.ts": [
+          {
+            "timestamp": "2025-09-30T23:08:40.699Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\pdf.ts",
+            "fileType": ".ts",
+            "linesAdded": 438,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-30T23:08:52.153Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\pdf.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 57,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\src\\app\\api\\static\\uploads\\[filename]\\route.ts": [
+          {
+            "timestamp": "2025-09-30T23:08:41.730Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\app\\api\\static\\uploads\\[filename]\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2025-09-30T23:08:52.194Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\app\\api\\static\\uploads\\[filename]\\route.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\upstage.ts": [
+          {
+            "timestamp": "2025-09-30T23:08:52.132Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\upstage.ts",
+            "fileType": ".ts",
+            "linesAdded": 75,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\src\\components\\source\\source-add-screen.tsx": [
+          {
+            "timestamp": "2025-09-30T23:08:52.211Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\src\\components\\source\\source-add-screen.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 0,
+            "linesRemoved": 50,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
