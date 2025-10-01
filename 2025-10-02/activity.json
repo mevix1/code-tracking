@@ -3,8 +3,8 @@
   "projects": {
     "oura-api": {
       "totalLinesAdded": 7026,
-      "totalLinesRemoved": 330,
-      "totalActiveTime": 131,
+      "totalLinesRemoved": 331,
+      "totalActiveTime": 133,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -829,6 +829,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-10-01T23:44:58.392Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\db\\schema\\oura_base.sql",
+            "fileType": ".sql",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "sql"
           }
         ],

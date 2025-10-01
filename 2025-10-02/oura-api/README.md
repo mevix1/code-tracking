@@ -5,9 +5,9 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 7026                                          |
-| **Lines Removed** (➖) | 330                                        |
-| **Net Change** (↕)    | 6696                |
-| **Active Time** (⌚)   | 131 minutes |
+| **Lines Removed** (➖) | 331                                        |
+| **Net Change** (↕)    | 6695                |
+| **Active Time** (⌚)   | 133 minutes |
 
 
 ## Modified Files
@@ -45,7 +45,7 @@
 - **oura-api.d.ts** (+209, -33)
 - **TASK-201-PROMPT.txt** (+152, -0)
 - **generate-sql.ts** (+38, -0)
-- **oura_base.sql** (+736, -83)
+- **oura_base.sql** (+736, -84)
 - **001_create_heartrate_partitions.sql** (+88, -16)
 - **002_seed_test_data.sql** (+236, -0)
 - **003_validate_schema.sql** (+138, -11)
@@ -83,7 +83,7 @@ title Lines changed by file type
 ".ts" : 380
 ".tsx" : 653
 ".css" : 48
-".sql" : 3266
+".sql" : 3267
 ".yml" : 97
 ".sh" : 159
 ```
@@ -95,8 +95,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 3
 "01h" : 43
-"02h" : 41
+"02h" : 42
 ```
 
 
-> **Last Updated:** 10/2/2025, 2:44:54 AM
+> **Last Updated:** 10/2/2025, 2:46:54 AM
