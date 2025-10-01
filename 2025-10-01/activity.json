@@ -2,9 +2,9 @@
   "date": "2025-10-01",
   "projects": {
     "open-health": {
-      "totalLinesAdded": 1403,
+      "totalLinesAdded": 1474,
       "totalLinesRemoved": 212,
-      "totalActiveTime": 63,
+      "totalActiveTime": 66,
       "files": {
         "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts": [
           {
@@ -716,6 +716,38 @@
             "fileName": "d:\\Работа\\Git_Projects\\open-health\\load-latin-model.sh",
             "fileType": ".sh",
             "linesAdded": 30,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\fix-latin.sh": [
+          {
+            "timestamp": "2025-10-01T14:52:49.745Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\fix-latin.sh",
+            "fileType": ".sh",
+            "linesAdded": 38,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\load-all-models.sh": [
+          {
+            "timestamp": "2025-10-01T14:53:13.454Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\load-all-models.sh",
+            "fileType": ".sh",
+            "linesAdded": 33,
             "linesRemoved": 0,
             "projectName": "open-health",
             "content": {

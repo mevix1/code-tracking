@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1403                                          |
+| **Lines Added** (➕)   | 1474                                          |
 | **Lines Removed** (➖) | 212                                        |
-| **Net Change** (↕)    | 1191                |
-| **Active Time** (⌚)   | 63 minutes |
+| **Net Change** (↕)    | 1262                |
+| **Active Time** (⌚)   | 66 minutes |
 
 
 ## Modified Files
@@ -35,6 +35,8 @@
 - **test-pdf.sh** (+33, -0)
 - **.gitignore** (+50, -0)
 - **load-latin-model.sh** (+30, -0)
+- **fix-latin.sh** (+38, -0)
+- **load-all-models.sh** (+33, -0)
 
 ## Visualizations
 
@@ -49,7 +51,7 @@ title Lines changed by file type
 ".example" : 46
 ".tsx" : 100
 ".json" : 89
-".sh" : 278
+".sh" : 349
 ".py" : 35
 ```
 
@@ -62,8 +64,8 @@ title Coding activity by hour (count of changes)
 "02h" : 23
 "15h" : 1
 "16h" : 4
-"17h" : 18
+"17h" : 20
 ```
 
 
-> **Last Updated:** 10/1/2025, 5:51:21 PM
+> **Last Updated:** 10/1/2025, 5:53:21 PM
