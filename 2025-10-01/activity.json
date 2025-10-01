@@ -417,9 +417,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 2555,
+      "totalLinesAdded": 2851,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 47,
+      "totalActiveTime": 48,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -1009,6 +1009,22 @@
             "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\spo2.ts",
             "fileType": ".ts",
             "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\presenters\\format.ts": [
+          {
+            "timestamp": "2025-10-01T13:31:57.783Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\presenters\\format.ts",
+            "fileType": ".ts",
+            "linesAdded": 296,
             "linesRemoved": 0,
             "projectName": "oura-api",
             "content": {
