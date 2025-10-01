@@ -2,9 +2,9 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 3678,
+      "totalLinesAdded": 4063,
       "totalLinesRemoved": 37,
-      "totalActiveTime": 70,
+      "totalActiveTime": 73,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -789,6 +789,54 @@
               "removed": []
             },
             "duration": 2,
+            "language": "sql"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\db\\migrations\\002_seed_test_data.sql": [
+          {
+            "timestamp": "2025-10-01T23:09:11.352Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\db\\migrations\\002_seed_test_data.sql",
+            "fileType": ".sql",
+            "linesAdded": 125,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\db\\migrations\\003_validate_schema.sql": [
+          {
+            "timestamp": "2025-10-01T23:09:27.249Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\db\\migrations\\003_validate_schema.sql",
+            "fileType": ".sql",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\db\\migrations\\004_test_queries_performance.sql": [
+          {
+            "timestamp": "2025-10-01T23:09:42.068Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\db\\migrations\\004_test_queries_performance.sql",
+            "fileType": ".sql",
+            "linesAdded": 122,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "sql"
           }
         ]

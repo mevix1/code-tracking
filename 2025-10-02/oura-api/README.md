@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3678                                          |
+| **Lines Added** (➕)   | 4063                                          |
 | **Lines Removed** (➖) | 37                                        |
-| **Net Change** (↕)    | 3641                |
-| **Active Time** (⌚)   | 70 minutes |
+| **Net Change** (↕)    | 4026                |
+| **Active Time** (⌚)   | 73 minutes |
 
 
 ## Modified Files
@@ -47,6 +47,9 @@
 - **generate-sql.ts** (+38, -0)
 - **oura_base.sql** (+736, -0)
 - **001_create_heartrate_partitions.sql** (+88, -0)
+- **002_seed_test_data.sql** (+125, -0)
+- **003_validate_schema.sql** (+138, -0)
+- **004_test_queries_performance.sql** (+122, -0)
 
 ## Visualizations
 
@@ -65,7 +68,7 @@ title Lines changed by file type
 ".ts" : 380
 ".tsx" : 294
 ".css" : 48
-".sql" : 824
+".sql" : 1209
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -75,8 +78,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 3
 "01h" : 43
-"02h" : 5
+"02h" : 8
 ```
 
 
-> **Last Updated:** 10/2/2025, 2:08:54 AM
+> **Last Updated:** 10/2/2025, 2:10:54 AM
