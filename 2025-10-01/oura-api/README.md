@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2414                                          |
+| **Lines Added** (➕)   | 2422                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2414                |
-| **Active Time** (⌚)   | 37 minutes |
+| **Net Change** (↕)    | 2422                |
+| **Active Time** (⌚)   | 41 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **OuraBase.ts** (+773, -0)
 - **cli.ts** (+17, -0)
 - **package.json** (+17, -0)
-- **tsconfig.json** (+21, -0)
+- **tsconfig.json** (+29, -0)
 - **utilsOAuth.ts** (+3, -0)
 
 ## Visualizations
@@ -41,7 +41,7 @@ title Lines changed by file type
 ".ts" : 2154
 "unknown" : 11
 ".yaml" : 211
-".json" : 38
+".json" : 46
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -50,8 +50,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 16
-"16h" : 15
+"16h" : 16
 ```
 
 
-> **Last Updated:** 10/1/2025, 4:21:36 PM
+> **Last Updated:** 10/1/2025, 4:25:36 PM
