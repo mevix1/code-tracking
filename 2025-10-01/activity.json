@@ -2,9 +2,9 @@
   "date": "2025-10-01",
   "projects": {
     "open-health": {
-      "totalLinesAdded": 1167,
+      "totalLinesAdded": 1186,
       "totalLinesRemoved": 212,
-      "totalActiveTime": 44,
+      "totalActiveTime": 46,
       "files": {
         "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts": [
           {
@@ -560,6 +560,22 @@
             "fileName": "d:\\Работа\\Git_Projects\\open-health\\test-docling.sh",
             "fileType": ".sh",
             "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "sh"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\test-en-only.sh": [
+          {
+            "timestamp": "2025-10-01T14:40:17.878Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\test-en-only.sh",
+            "fileType": ".sh",
+            "linesAdded": 19,
             "linesRemoved": 0,
             "projectName": "open-health",
             "content": {

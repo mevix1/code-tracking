@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1167                                          |
+| **Lines Added** (➕)   | 1186                                          |
 | **Lines Removed** (➖) | 212                                        |
-| **Net Change** (↕)    | 955                |
-| **Active Time** (⌚)   | 44 minutes |
+| **Net Change** (↕)    | 974                |
+| **Active Time** (⌚)   | 46 minutes |
 
 
 ## Modified Files
@@ -27,6 +27,7 @@
 - **register_and_test.sh** (+32, -0)
 - **test-upload.sh** (+24, -0)
 - **test-docling.sh** (+24, -0)
+- **test-en-only.sh** (+19, -0)
 
 ## Visualizations
 
@@ -41,7 +42,7 @@ title Lines changed by file type
 ".example" : 46
 ".tsx" : 100
 ".json" : 89
-".sh" : 128
+".sh" : 147
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -53,8 +54,8 @@ title Coding activity by hour (count of changes)
 "02h" : 23
 "15h" : 1
 "16h" : 4
-"17h" : 8
+"17h" : 9
 ```
 
 
-> **Last Updated:** 10/1/2025, 5:39:21 PM
+> **Last Updated:** 10/1/2025, 5:40:21 PM
