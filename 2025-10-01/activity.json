@@ -403,9 +403,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 103,
+      "totalLinesAdded": 924,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 10,
+      "totalActiveTime": 12,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -563,6 +563,38 @@
             },
             "duration": 1,
             "language": "unknown"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\scripts\\generate_methods_matrix.ts": [
+          {
+            "timestamp": "2025-10-01T12:47:18.376Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\scripts\\generate_methods_matrix.ts",
+            "fileType": ".ts",
+            "linesAdded": 409,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\examples\\full-oauth-server.ts": [
+          {
+            "timestamp": "2025-10-01T12:47:18.386Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\examples\\full-oauth-server.ts",
+            "fileType": ".ts",
+            "linesAdded": 412,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
