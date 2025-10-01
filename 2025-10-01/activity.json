@@ -2,7 +2,7 @@
   "date": "2025-10-01",
   "projects": {
     "open-health": {
-      "totalLinesAdded": 1928,
+      "totalLinesAdded": 1939,
       "totalLinesRemoved": 313,
       "totalActiveTime": 96,
       "files": {
@@ -1016,6 +1016,22 @@
             },
             "duration": 2,
             "language": "json"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\register-user.sh": [
+          {
+            "timestamp": "2025-10-01T15:55:37.440Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\register-user.sh",
+            "fileType": ".sh",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sh"
           }
         ]
       },
