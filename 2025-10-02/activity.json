@@ -2,7 +2,7 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 2662,
+      "totalLinesAdded": 2663,
       "totalLinesRemoved": 37,
       "totalActiveTime": 59,
       "files": {
@@ -227,6 +227,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-01T22:54:28.973Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
