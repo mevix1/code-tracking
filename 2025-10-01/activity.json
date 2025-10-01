@@ -403,9 +403,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 1559,
+      "totalLinesAdded": 1583,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 27,
+      "totalActiveTime": 30,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -741,6 +741,54 @@
             "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\normalize.ts",
             "fileType": ".ts",
             "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\time.ts": [
+          {
+            "timestamp": "2025-10-01T13:17:00.293Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\time.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\file.ts": [
+          {
+            "timestamp": "2025-10-01T13:17:09.647Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\file.ts",
+            "fileType": ".ts",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\Oura.ts": [
+          {
+            "timestamp": "2025-10-01T13:17:29.950Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\Oura.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "oura-api",
             "content": {
