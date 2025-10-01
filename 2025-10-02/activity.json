@@ -2,9 +2,9 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 6310,
+      "totalLinesAdded": 6669,
       "totalLinesRemoved": 159,
-      "totalActiveTime": 107,
+      "totalActiveTime": 116,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -412,6 +412,20 @@
             },
             "duration": 1,
             "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-01T23:30:24.544Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\app\\layout.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ],
         "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\app\\page.tsx": [
@@ -420,6 +434,20 @@
             "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\app\\page.tsx",
             "fileType": ".tsx",
             "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-01T23:30:25.987Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\app\\page.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
             "linesRemoved": 0,
             "projectName": "oura-api",
             "content": {
@@ -1034,6 +1062,116 @@
             },
             "duration": 1,
             "language": "sql"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\providers.tsx": [
+          {
+            "timestamp": "2025-10-01T23:29:34.875Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\providers.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\Sidebar.tsx": [
+          {
+            "timestamp": "2025-10-01T23:29:44.611Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\Sidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 92,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\MobileHeader.tsx": [
+          {
+            "timestamp": "2025-10-01T23:29:56.838Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\MobileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2025-10-01T23:29:57.327Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\MobileHeader.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\MobileSidebar.tsx": [
+          {
+            "timestamp": "2025-10-01T23:29:58.308Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\layout\\MobileSidebar.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 103,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\ui\\DateSelector.tsx": [
+          {
+            "timestamp": "2025-10-01T23:30:07.285Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\ui\\DateSelector.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 40,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\ui\\DashboardGrid.tsx": [
+          {
+            "timestamp": "2025-10-01T23:30:14.573Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\components\\ui\\DashboardGrid.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
           }
         ]
       },
