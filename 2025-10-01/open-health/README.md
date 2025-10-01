@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1679                                          |
+| **Lines Added** (➕)   | 1733                                          |
 | **Lines Removed** (➖) | 313                                        |
-| **Net Change** (↕)    | 1366                |
-| **Active Time** (⌚)   | 87 minutes |
+| **Net Change** (↕)    | 1420                |
+| **Active Time** (⌚)   | 92 minutes |
 
 
 ## Modified Files
@@ -45,6 +45,7 @@
 - **check-body-schema.sh** (+6, -0)
 - **docling_result.json** (+1, -0)
 - **show-status.sh** (+15, -0)
+- **show-docling-proof.sh** (+54, -0)
 
 ## Visualizations
 
@@ -59,7 +60,7 @@ title Lines changed by file type
 ".example" : 46
 ".tsx" : 100
 ".json" : 90
-".sh" : 646
+".sh" : 700
 ".py" : 35
 ```
 
@@ -73,8 +74,8 @@ title Coding activity by hour (count of changes)
 "15h" : 1
 "16h" : 4
 "17h" : 23
-"18h" : 9
+"18h" : 10
 ```
 
 
-> **Last Updated:** 10/1/2025, 6:09:21 PM
+> **Last Updated:** 10/1/2025, 6:14:21 PM
