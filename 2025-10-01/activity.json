@@ -403,7 +403,7 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 937,
+      "totalLinesAdded": 1044,
       "totalLinesRemoved": 0,
       "totalActiveTime": 19,
       "files": {
@@ -637,6 +637,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ai_guidelines\\tasks\\draft\\TASK-101-refactor-lib-structure.task.yaml": [
+          {
+            "timestamp": "2025-10-01T13:06:01.758Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ai_guidelines\\tasks\\draft\\TASK-101-refactor-lib-structure.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 107,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
           }
         ]
       },
