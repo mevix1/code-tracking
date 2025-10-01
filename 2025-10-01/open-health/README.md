@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1643                                          |
+| **Lines Added** (➕)   | 1651                                          |
 | **Lines Removed** (➖) | 313                                        |
-| **Net Change** (↕)    | 1330                |
-| **Active Time** (⌚)   | 78 minutes |
+| **Net Change** (↕)    | 1338                |
+| **Active Time** (⌚)   | 79 minutes |
 
 
 ## Modified Files
@@ -33,7 +33,7 @@
 - **init-easyocr-models.py** (+35, -0)
 - **download-en-model.sh** (+14, -0)
 - **test-pdf.sh** (+33, -32)
-- **.gitignore** (+50, -0)
+- **.gitignore** (+58, -0)
 - **load-latin-model.sh** (+30, -0)
 - **fix-latin.sh** (+38, -37)
 - **load-all-models.sh** (+33, -32)
@@ -51,7 +51,7 @@ pie showData
 title Lines changed by file type
 ".ts" : 794
 ".yaml" : 83
-"unknown" : 190
+"unknown" : 198
 ".example" : 46
 ".tsx" : 100
 ".json" : 89
@@ -69,8 +69,8 @@ title Coding activity by hour (count of changes)
 "15h" : 1
 "16h" : 4
 "17h" : 23
-"18h" : 4
+"18h" : 5
 ```
 
 
-> **Last Updated:** 10/1/2025, 6:02:21 PM
+> **Last Updated:** 10/1/2025, 6:03:21 PM
