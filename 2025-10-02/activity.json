@@ -2,9 +2,9 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 1856,
+      "totalLinesAdded": 1889,
       "totalLinesRemoved": 2,
-      "totalActiveTime": 48,
+      "totalActiveTime": 50,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -589,6 +589,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\types\\dashboard.ts": [
+          {
+            "timestamp": "2025-10-01T22:37:57.620Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ui\\src\\types\\dashboard.ts",
+            "fileType": ".ts",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ts"
           }
         ]
