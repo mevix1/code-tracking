@@ -955,9 +955,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 12761,
+      "totalLinesAdded": 12818,
       "totalLinesRemoved": 1854,
-      "totalActiveTime": 79,
+      "totalActiveTime": 83,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -1877,6 +1877,38 @@
             "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\presenters.format.test.ts",
             "fileType": ".ts",
             "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\api.oauth.test.ts": [
+          {
+            "timestamp": "2025-10-01T15:11:09.136Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\api.oauth.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\ouraBase.retry.test.ts": [
+          {
+            "timestamp": "2025-10-01T15:11:24.606Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\ouraBase.retry.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 24,
             "linesRemoved": 0,
             "projectName": "oura-api",
             "content": {
