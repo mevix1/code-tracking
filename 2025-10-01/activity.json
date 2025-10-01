@@ -417,9 +417,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 2447,
+      "totalLinesAdded": 2555,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 42,
+      "totalActiveTime": 47,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -927,6 +927,86 @@
           {
             "timestamp": "2025-10-01T13:30:31.679Z",
             "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\activity.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\readiness.ts": [
+          {
+            "timestamp": "2025-10-01T13:30:36.059Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\readiness.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\stress.ts": [
+          {
+            "timestamp": "2025-10-01T13:30:39.430Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\stress.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\heartrate.ts": [
+          {
+            "timestamp": "2025-10-01T13:30:54.516Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\heartrate.ts",
+            "fileType": ".ts",
+            "linesAdded": 44,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\workouts.ts": [
+          {
+            "timestamp": "2025-10-01T13:30:58.177Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\workouts.ts",
+            "fileType": ".ts",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\spo2.ts": [
+          {
+            "timestamp": "2025-10-01T13:31:11.211Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\domains\\spo2.ts",
             "fileType": ".ts",
             "linesAdded": 16,
             "linesRemoved": 0,
