@@ -1047,7 +1047,7 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 12843,
+      "totalLinesAdded": 15206,
       "totalLinesRemoved": 1854,
       "totalActiveTime": 84,
       "files": {
@@ -2025,6 +2025,22 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\package-lock.json": [
+          {
+            "timestamp": "2025-10-01T15:56:12.866Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\package-lock.json",
+            "fileType": ".json",
+            "linesAdded": 2363,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
