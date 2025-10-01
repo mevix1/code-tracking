@@ -2,9 +2,9 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 896,
+      "totalLinesAdded": 900,
       "totalLinesRemoved": 1,
-      "totalActiveTime": 9,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -112,6 +112,22 @@
             },
             "duration": 2,
             "language": "txt"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\pnpm-workspace.yaml": [
+          {
+            "timestamp": "2025-10-01T22:24:29.889Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\pnpm-workspace.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yaml"
           }
         ]
       },
