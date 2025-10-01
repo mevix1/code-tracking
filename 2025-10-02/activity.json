@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-02",
+  "projects": {
+    "oura-api": {
+      "totalLinesAdded": 140,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
+          {
+            "timestamp": "2025-10-01T21:50:42.949Z",
+            "fileName": "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 140,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 5
+      },
+      "changeFrequency": {
+        "0": 5
+      },
+      "topFiles": [
+        "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json"
+      ],
+      "averageChangeSize": 140
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
