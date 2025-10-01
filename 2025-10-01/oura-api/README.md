@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2422                                          |
+| **Lines Added** (➕)   | 2447                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2422                |
-| **Active Time** (⌚)   | 41 minutes |
+| **Net Change** (↕)    | 2447                |
+| **Active Time** (⌚)   | 42 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,8 @@
 - **package.json** (+17, -0)
 - **tsconfig.json** (+29, -0)
 - **utilsOAuth.ts** (+3, -0)
+- **personal.ts** (+9, -0)
+- **activity.ts** (+16, -0)
 
 ## Visualizations
 
@@ -38,7 +40,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 2154
+".ts" : 2179
 "unknown" : 11
 ".yaml" : 211
 ".json" : 46
@@ -50,8 +52,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "15h" : 16
-"16h" : 16
+"16h" : 18
 ```
 
 
-> **Last Updated:** 10/1/2025, 4:25:36 PM
+> **Last Updated:** 10/1/2025, 4:30:36 PM
