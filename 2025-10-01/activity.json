@@ -939,9 +939,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 12694,
+      "totalLinesAdded": 12761,
       "totalLinesRemoved": 1854,
-      "totalActiveTime": 75,
+      "totalActiveTime": 79,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -1821,6 +1821,54 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\utils.time.test.ts": [
+          {
+            "timestamp": "2025-10-01T15:07:46.138Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\utils.time.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\cli.args.test.ts": [
+          {
+            "timestamp": "2025-10-01T15:08:04.375Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\cli.args.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\presenters.format.test.ts": [
+          {
+            "timestamp": "2025-10-01T15:08:22.420Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\unit\\presenters.format.test.ts",
+            "fileType": ".ts",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ]
       },
