@@ -615,7 +615,7 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 9296,
+      "totalLinesAdded": 9301,
       "totalLinesRemoved": 1427,
       "totalActiveTime": 63,
       "files": {
@@ -830,6 +830,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-10-01T14:41:40.042Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "unknown"
           }
         ],
