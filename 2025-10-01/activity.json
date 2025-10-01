@@ -939,9 +939,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 12690,
+      "totalLinesAdded": 12694,
       "totalLinesRemoved": 1854,
-      "totalActiveTime": 72,
+      "totalActiveTime": 75,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -1450,6 +1450,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-01T15:06:29.193Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\package.json",
+            "fileType": ".json",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "json"
           }
         ],
