@@ -3,8 +3,8 @@
   "projects": {
     "oura-api": {
       "totalLinesAdded": 6867,
-      "totalLinesRemoved": 297,
-      "totalActiveTime": 121,
+      "totalLinesRemoved": 298,
+      "totalActiveTime": 124,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -1257,6 +1257,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-01T23:39:02.632Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "yml"
           }
         ]
