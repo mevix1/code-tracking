@@ -3,8 +3,8 @@
   "projects": {
     "open-health": {
       "totalLinesAdded": 1474,
-      "totalLinesRemoved": 212,
-      "totalActiveTime": 66,
+      "totalLinesRemoved": 313,
+      "totalActiveTime": 75,
       "files": {
         "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts": [
           {
@@ -678,6 +678,20 @@
             },
             "duration": 3,
             "language": "sh"
+          },
+          {
+            "timestamp": "2025-10-01T14:55:33.975Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\test-pdf.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "sh"
           }
         ],
         "d:\\Работа\\Git_Projects\\open-health\\.gitignore": [
@@ -740,6 +754,20 @@
             },
             "duration": 2,
             "language": "sh"
+          },
+          {
+            "timestamp": "2025-10-01T14:55:33.979Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\fix-latin.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "sh"
           }
         ],
         "d:\\Работа\\Git_Projects\\open-health\\load-all-models.sh": [
@@ -755,6 +783,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-10-01T14:55:33.985Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\load-all-models.sh",
+            "fileType": ".sh",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "sh"
           }
         ]
