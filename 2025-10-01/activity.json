@@ -403,9 +403,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 1044,
+      "totalLinesAdded": 1148,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 19,
+      "totalActiveTime": 21,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -652,6 +652,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\ai_guidelines\\tasks\\draft\\TASK-102-refactor-cli-today.task.yaml": [
+          {
+            "timestamp": "2025-10-01T13:07:18.284Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\ai_guidelines\\tasks\\draft\\TASK-102-refactor-cli-today.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "yaml"
           }
         ]
