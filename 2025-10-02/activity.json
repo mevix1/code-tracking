@@ -2,7 +2,7 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 140,
+      "totalLinesAdded": 145,
       "totalLinesRemoved": 1,
       "totalActiveTime": 6,
       "files": {
@@ -33,6 +33,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\.vscode\\extensions.json": [
+          {
+            "timestamp": "2025-10-01T21:58:00.153Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\.vscode\\extensions.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
