@@ -2,9 +2,9 @@
   "date": "2025-10-02",
   "projects": {
     "oura-api": {
-      "totalLinesAdded": 6867,
-      "totalLinesRemoved": 298,
-      "totalActiveTime": 124,
+      "totalLinesAdded": 7026,
+      "totalLinesRemoved": 329,
+      "totalActiveTime": 129,
       "files": {
         "c:\\Users\\Vladimir\\AppData\\Roaming\\Cursor\\User\\settings.json": [
           {
@@ -1272,6 +1272,50 @@
             },
             "duration": 3,
             "language": "yml"
+          },
+          {
+            "timestamp": "2025-10-01T23:41:59.078Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\docker-compose.yml",
+            "fileType": ".yml",
+            "linesAdded": 0,
+            "linesRemoved": 31,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "yml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\db\\deploy.sh": [
+          {
+            "timestamp": "2025-10-01T23:42:25.186Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\db\\deploy.sh",
+            "fileType": ".sh",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
+          },
+          {
+            "timestamp": "2025-10-01T23:42:25.777Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\db\\deploy.sh",
+            "fileType": ".sh",
+            "linesAdded": 158,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sh"
           }
         ]
       },

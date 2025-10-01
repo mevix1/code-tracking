@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6867                                          |
-| **Lines Removed** (➖) | 298                                        |
-| **Net Change** (↕)    | 6569                |
-| **Active Time** (⌚)   | 124 minutes |
+| **Lines Added** (➕)   | 7026                                          |
+| **Lines Removed** (➖) | 329                                        |
+| **Net Change** (↕)    | 6697                |
+| **Active Time** (⌚)   | 129 minutes |
 
 
 ## Modified Files
@@ -63,7 +63,8 @@
 - **MobileSidebar.tsx** (+103, -0)
 - **DateSelector.tsx** (+40, -0)
 - **DashboardGrid.tsx** (+45, -0)
-- **docker-compose.yml** (+64, -1)
+- **docker-compose.yml** (+64, -32)
+- **deploy.sh** (+159, -0)
 
 ## Visualizations
 
@@ -83,7 +84,8 @@ title Lines changed by file type
 ".tsx" : 653
 ".css" : 48
 ".sql" : 3266
-".yml" : 65
+".yml" : 96
+".sh" : 159
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -93,8 +95,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 3
 "01h" : 43
-"02h" : 37
+"02h" : 40
 ```
 
 
-> **Last Updated:** 10/2/2025, 2:40:54 AM
+> **Last Updated:** 10/2/2025, 2:42:54 AM
