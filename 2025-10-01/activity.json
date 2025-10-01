@@ -2,9 +2,9 @@
   "date": "2025-10-01",
   "projects": {
     "open-health": {
-      "totalLinesAdded": 939,
-      "totalLinesRemoved": 210,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 1026,
+      "totalLinesRemoved": 212,
+      "totalActiveTime": 36,
       "files": {
         "d:\\Работа\\Git_Projects\\open-health\\src\\lib\\health-data\\parser\\document\\docling.ts": [
           {
@@ -444,6 +444,36 @@
             },
             "duration": 2,
             "language": "tsx"
+          }
+        ],
+        "c:\\Users\\Vladimir\\.cursor\\mcp.json": [
+          {
+            "timestamp": "2025-10-01T14:05:55.121Z",
+            "fileName": "c:\\Users\\Vladimir\\.cursor\\mcp.json",
+            "fileType": ".json",
+            "linesAdded": 87,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-01T14:06:16.193Z",
+            "fileName": "c:\\Users\\Vladimir\\.cursor\\mcp.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },

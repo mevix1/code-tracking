@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 939                                          |
-| **Lines Removed** (➖) | 210                                        |
-| **Net Change** (↕)    | 729                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 1026                                          |
+| **Lines Removed** (➖) | 212                                        |
+| **Net Change** (↕)    | 814                |
+| **Active Time** (⌚)   | 36 minutes |
 
 
 ## Modified Files
@@ -21,6 +21,7 @@
 - **route.ts** (+31, -3)
 - **upstage.ts** (+100, -0)
 - **source-add-screen.tsx** (+50, -50)
+- **mcp.json** (+87, -2)
 
 ## Visualizations
 
@@ -34,6 +35,7 @@ title Lines changed by file type
 "unknown" : 140
 ".example" : 46
 ".tsx" : 100
+".json" : 89
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,7 +47,8 @@ title Coding activity by hour (count of changes)
 "02h" : 23
 "15h" : 1
 "16h" : 4
+"17h" : 2
 ```
 
 
-> **Last Updated:** 10/1/2025, 4:55:21 PM
+> **Last Updated:** 10/1/2025, 5:06:21 PM
