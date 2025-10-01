@@ -403,9 +403,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 1214,
+      "totalLinesAdded": 1559,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 21,
+      "totalActiveTime": 27,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -684,6 +684,70 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\api\\oauth.ts": [
+          {
+            "timestamp": "2025-10-01T13:16:16.290Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\api\\oauth.ts",
+            "fileType": ".ts",
+            "linesAdded": 121,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\OuraOAuth.ts": [
+          {
+            "timestamp": "2025-10-01T13:16:19.680Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\OuraOAuth.ts",
+            "fileType": ".ts",
+            "linesAdded": 139,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\time.ts": [
+          {
+            "timestamp": "2025-10-01T13:16:25.366Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\time.ts",
+            "fileType": ".ts",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\normalize.ts": [
+          {
+            "timestamp": "2025-10-01T13:16:31.940Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\utils\\normalize.ts",
+            "fileType": ".ts",
+            "linesAdded": 57,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
