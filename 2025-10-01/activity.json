@@ -403,9 +403,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 1583,
+      "totalLinesAdded": 2411,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 30,
+      "totalActiveTime": 35,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -797,6 +797,70 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\OuraBase.ts": [
+          {
+            "timestamp": "2025-10-01T13:18:42.210Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\OuraBase.ts",
+            "fileType": ".ts",
+            "linesAdded": 773,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\src\\types\\cli.ts": [
+          {
+            "timestamp": "2025-10-01T13:18:47.766Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\src\\types\\cli.ts",
+            "fileType": ".ts",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\package.json": [
+          {
+            "timestamp": "2025-10-01T13:18:51.133Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\package.json",
+            "fileType": ".json",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tsconfig.json": [
+          {
+            "timestamp": "2025-10-01T13:19:18.086Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
