@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1508                                          |
+| **Lines Added** (➕)   | 1643                                          |
 | **Lines Removed** (➖) | 313                                        |
-| **Net Change** (↕)    | 1195                |
-| **Active Time** (⌚)   | 75 minutes |
+| **Net Change** (↕)    | 1330                |
+| **Active Time** (⌚)   | 78 minutes |
 
 
 ## Modified Files
@@ -38,6 +38,9 @@
 - **fix-latin.sh** (+38, -37)
 - **load-all-models.sh** (+33, -32)
 - **load-de-es-models.sh** (+34, -0)
+- **test-upload-pdf.sh** (+61, -0)
+- **test-docling-direct.sh** (+68, -0)
+- **check-docling-api.sh** (+6, -0)
 
 ## Visualizations
 
@@ -52,7 +55,7 @@ title Lines changed by file type
 ".example" : 46
 ".tsx" : 100
 ".json" : 89
-".sh" : 484
+".sh" : 619
 ".py" : 35
 ```
 
@@ -66,8 +69,8 @@ title Coding activity by hour (count of changes)
 "15h" : 1
 "16h" : 4
 "17h" : 23
-"18h" : 1
+"18h" : 4
 ```
 
 
-> **Last Updated:** 10/1/2025, 6:01:21 PM
+> **Last Updated:** 10/1/2025, 6:02:21 PM
