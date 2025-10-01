@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1474                                          |
+| **Lines Added** (➕)   | 1508                                          |
 | **Lines Removed** (➖) | 313                                        |
-| **Net Change** (↕)    | 1161                |
+| **Net Change** (↕)    | 1195                |
 | **Active Time** (⌚)   | 75 minutes |
 
 
@@ -37,6 +37,7 @@
 - **load-latin-model.sh** (+30, -0)
 - **fix-latin.sh** (+38, -37)
 - **load-all-models.sh** (+33, -32)
+- **load-de-es-models.sh** (+34, -0)
 
 ## Visualizations
 
@@ -51,7 +52,7 @@ title Lines changed by file type
 ".example" : 46
 ".tsx" : 100
 ".json" : 89
-".sh" : 450
+".sh" : 484
 ".py" : 35
 ```
 
@@ -65,7 +66,8 @@ title Coding activity by hour (count of changes)
 "15h" : 1
 "16h" : 4
 "17h" : 23
+"18h" : 1
 ```
 
 
-> **Last Updated:** 10/1/2025, 5:56:21 PM
+> **Last Updated:** 10/1/2025, 6:01:21 PM

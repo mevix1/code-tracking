@@ -2,7 +2,7 @@
   "date": "2025-10-01",
   "projects": {
     "open-health": {
-      "totalLinesAdded": 1474,
+      "totalLinesAdded": 1508,
       "totalLinesRemoved": 313,
       "totalActiveTime": 75,
       "files": {
@@ -797,6 +797,22 @@
               "removed": []
             },
             "duration": 3,
+            "language": "sh"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\open-health\\load-de-es-models.sh": [
+          {
+            "timestamp": "2025-10-01T15:00:56.437Z",
+            "fileName": "d:\\Работа\\Git_Projects\\open-health\\load-de-es-models.sh",
+            "fileType": ".sh",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "open-health",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "sh"
           }
         ]
