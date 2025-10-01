@@ -662,7 +662,7 @@
     },
     "oura-api": {
       "totalLinesAdded": 9301,
-      "totalLinesRemoved": 1427,
+      "totalLinesRemoved": 1817,
       "totalActiveTime": 63,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
@@ -1410,6 +1410,20 @@
               "removed": []
             },
             "duration": 5,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-01T14:46:50.097Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\out\\oura-today-2025-10-01-Europe-Madrid.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 390,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],

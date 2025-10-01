@@ -5,8 +5,8 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 9301                                          |
-| **Lines Removed** (➖) | 1427                                        |
-| **Net Change** (↕)    | 7874                |
+| **Lines Removed** (➖) | 1817                                        |
+| **Net Change** (↕)    | 7484                |
 | **Active Time** (⌚)   | 63 minutes |
 
 
@@ -41,7 +41,7 @@
 - **today.ts** (+205, -0)
 - **args.ts** (+40, -0)
 - **today.ts** (+85, -0)
-- **oura-today-2025-10-01-Europe-Madrid.json** (+6004, -700)
+- **oura-today-2025-10-01-Europe-Madrid.json** (+6004, -1090)
 - **mod.ts** (+16, -0)
 - **oura_sandbox_test.ts** (+94, -0)
 
@@ -55,7 +55,7 @@ title Lines changed by file type
 ".ts" : 3750
 "unknown" : 16
 ".yaml" : 211
-".json" : 6751
+".json" : 7141
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -65,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 16
 "16h" : 28
-"17h" : 7
+"17h" : 8
 ```
 
 
-> **Last Updated:** 10/1/2025, 5:42:37 PM
+> **Last Updated:** 10/1/2025, 5:47:37 PM
