@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9202                                          |
-| **Lines Removed** (➖) | 726                                        |
-| **Net Change** (↕)    | 8476                |
-| **Active Time** (⌚)   | 54 minutes |
+| **Lines Added** (➕)   | 9296                                          |
+| **Lines Removed** (➖) | 727                                        |
+| **Net Change** (↕)    | 8569                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **OuraBase.ts** (+773, -0)
 - **cli.ts** (+17, -0)
 - **package.json** (+17, -0)
-- **tsconfig.json** (+29, -0)
+- **tsconfig.json** (+29, -1)
 - **utilsOAuth.ts** (+3, -0)
 - **personal.ts** (+9, -0)
 - **activity.ts** (+16, -0)
@@ -43,6 +43,7 @@
 - **today.ts** (+85, -0)
 - **oura-today-2025-10-01-Europe-Madrid.json** (+6004, -0)
 - **mod.ts** (+16, -0)
+- **oura_sandbox_test.ts** (+94, -0)
 
 ## Visualizations
 
@@ -51,10 +52,10 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 3656
+".ts" : 3750
 "unknown" : 11
 ".yaml" : 211
-".json" : 6050
+".json" : 6051
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -64,8 +65,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "15h" : 16
 "16h" : 28
-"17h" : 3
+"17h" : 5
 ```
 
 
-> **Last Updated:** 10/1/2025, 5:22:37 PM
+> **Last Updated:** 10/1/2025, 5:24:37 PM

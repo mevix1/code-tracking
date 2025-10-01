@@ -519,9 +519,9 @@
       "averageChangeSize": 2
     },
     "oura-api": {
-      "totalLinesAdded": 9202,
-      "totalLinesRemoved": 726,
-      "totalActiveTime": 54,
+      "totalLinesAdded": 9296,
+      "totalLinesRemoved": 727,
+      "totalActiveTime": 58,
       "files": {
         "d:\\Работа\\Git_Projects\\oura-api\\get-today-oura.ts": [
           {
@@ -1019,6 +1019,20 @@
             },
             "duration": 4,
             "language": "json"
+          },
+          {
+            "timestamp": "2025-10-01T14:24:29.961Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tsconfig.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "d:\\Работа\\Git_Projects\\oura-api\\src\\utilsOAuth.ts": [
@@ -1242,6 +1256,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\oura-api\\tests\\deno\\oura_sandbox_test.ts": [
+          {
+            "timestamp": "2025-10-01T14:24:10.555Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\tests\\deno\\oura_sandbox_test.ts",
+            "fileType": ".ts",
+            "linesAdded": 94,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ]
