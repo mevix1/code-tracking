@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 9883                                          |
+| **Lines Added** (➕)   | 10615                                          |
 | **Lines Removed** (➖) | 369                                        |
-| **Net Change** (↕)    | 9514                |
-| **Active Time** (⌚)   | 156 minutes |
+| **Net Change** (↕)    | 10246                |
+| **Active Time** (⌚)   | 161 minutes |
 
 
 ## Modified Files
@@ -28,7 +28,7 @@
 - **layout.tsx** (+38, -0)
 - **page.tsx** (+20, -0)
 - **globals.css** (+48, -0)
-- **package.json** (+27, -0)
+- **package.json** (+29, -0)
 - **components.json** (+22, -0)
 - **utils.ts** (+8, -0)
 - **card.tsx** (+81, -0)
@@ -70,6 +70,8 @@
 - **010_comprehensive_seed_data_fixed.sql** (+895, -0)
 - **012_performance_tests.sql** (+186, -38)
 - **TEST_REPORT.md** (+179, -0)
+- **ingest_oura_data.ts** (+371, -0)
+- **ingest_from_json.ts** (+359, -0)
 
 ## Visualizations
 
@@ -78,14 +80,14 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 282
+".json" : 284
 "unknown" : 154
 ".dbml" : 459
 ".txt" : 908
 ".yaml" : 568
 ".md" : 535
 ".mjs" : 27
-".ts" : 380
+".ts" : 1110
 ".tsx" : 653
 ".css" : 48
 ".sql" : 5982
@@ -100,8 +102,9 @@ pie showData
 title Coding activity by hour (count of changes)
 "00h" : 3
 "01h" : 43
-"02h" : 53
+"02h" : 55
+"03h" : 1
 ```
 
 
-> **Last Updated:** 10/2/2025, 2:58:54 AM
+> **Last Updated:** 10/2/2025, 3:00:54 AM
