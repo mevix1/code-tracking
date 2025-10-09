@@ -1,0 +1,64 @@
+{
+  "date": "2025-10-09",
+  "projects": {
+    "API-Hub": {
+      "totalLinesAdded": 279,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-001-bootstrap-monorepo.task.yaml": [
+          {
+            "timestamp": "2025-10-09T00:01:24.390Z",
+            "fileName": "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-001-bootstrap-monorepo.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 138,
+            "linesRemoved": 0,
+            "projectName": "API-Hub",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "yaml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-002-sso-rbac-keycloak.task.yaml": [
+          {
+            "timestamp": "2025-10-09T00:02:02.999Z",
+            "fileName": "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-002-sso-rbac-keycloak.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 141,
+            "linesRemoved": 0,
+            "projectName": "API-Hub",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ]
+      },
+      "languageStats": {
+        "yaml": 1
+      },
+      "changeFrequency": {
+        "3": 1
+      },
+      "topFiles": [
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-001-bootstrap-monorepo.task.yaml",
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-002-sso-rbac-keycloak.task.yaml"
+      ],
+      "averageChangeSize": 139.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    3
+  ],
+  "mostUsedLanguages": [
+    "yaml"
+  ]
+}
