@@ -2,9 +2,9 @@
   "date": "2025-10-09",
   "projects": {
     "API-Hub": {
-      "totalLinesAdded": 279,
+      "totalLinesAdded": 711,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-001-bootstrap-monorepo.task.yaml": [
           {
@@ -28,6 +28,54 @@
             "fileName": "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-002-sso-rbac-keycloak.task.yaml",
             "fileType": ".yaml",
             "linesAdded": 141,
+            "linesRemoved": 0,
+            "projectName": "API-Hub",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-003-apicurio-studio-registry.task.yaml": [
+          {
+            "timestamp": "2025-10-09T00:02:42.022Z",
+            "fileName": "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-003-apicurio-studio-registry.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "API-Hub",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-004-microcks-mocks-tests.task.yaml": [
+          {
+            "timestamp": "2025-10-09T00:03:15.151Z",
+            "fileName": "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-004-microcks-mocks-tests.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 146,
+            "linesRemoved": 0,
+            "projectName": "API-Hub",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
+          }
+        ],
+        "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-005-docs-portal-scalar.task.yaml": [
+          {
+            "timestamp": "2025-10-09T00:03:50.303Z",
+            "fileName": "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-005-docs-portal-scalar.task.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 140,
             "linesRemoved": 0,
             "projectName": "API-Hub",
             "content": {
