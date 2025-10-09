@@ -146,6 +146,39 @@
         "d:\\Работа\\Git_Projects\\API-Hub\\ai_guidelines\\tasks\\active\\TASK-002-sso-rbac-keycloak.task.yaml"
       ],
       "averageChangeSize": 139.5
+    },
+    "oura-api": {
+      "totalLinesAdded": 152,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "d:\\Работа\\Git_Projects\\oura-api\\api\\src\\server.ts": [
+          {
+            "timestamp": "2025-10-09T00:06:59.677Z",
+            "fileName": "d:\\Работа\\Git_Projects\\oura-api\\api\\src\\server.ts",
+            "fileType": ".ts",
+            "linesAdded": 152,
+            "linesRemoved": 0,
+            "projectName": "oura-api",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "3": 0
+      },
+      "topFiles": [
+        "d:\\Работа\\Git_Projects\\oura-api\\api\\src\\server.ts"
+      ],
+      "averageChangeSize": 152
     }
   },
   "totalActiveTime": 1,
